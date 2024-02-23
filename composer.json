@@ -1,0 +1,5 @@
+{
+  "require": {
+    "mobile-detect/mobile-detect": "^1.4.4"
+  }
+}
